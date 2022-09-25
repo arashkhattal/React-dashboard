@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+  font-family: "Poppins" !important;
+}
+.chart {
+  position: absolute;
+  left: 430px;
+  width: 620px;
+  /* left: 320px; */
+  top: 300px;
+  padding: 30px 20px;
+  border: 1px solid #dfe0eb;
+  border-radius: 10px;
+}
+.chart-head {
+  left: 450px;
+  top: 290px;
+  position: absolute;
+  font-size: 18px;
+  font-weight: 900 !important;
+}

@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+  font-family: "Poppins" !important;
+}
+.cards {
+  /* padding: 80px 80px; */
+  height: 140px;
+  width: 1360px;
+  position: absolute;
+  top: 130px;
+  left: 320px;
+  border: 1px solid #dfe0eb;
+  border-radius: 9px;
+}
+.item {
+  padding: 20px 20px;
+  height: 69px;
+  width: 290px;
+}
+.cardhead {
+  font-size: 30px !important;
+  font-weight: 600 !important;
+}
+.cardhead1 {
+  margin-top: -12px !important;
+  font-size: 30px !important;
+  font-weight: 600 !important;
+}
+.sub-cardhead {
+  text-align: left;
+  font-weight: 400 !important;
+}
+.cardicon1 {
+  position: absolute;
+  height: 18px;
+  width: 18px;
+  border: 1px solid #dfe0eb;
+  padding: 10px;
+  border-radius: 10px;
+  left: 260px;
+  top: 25px;
+}
+.cardicon2 {
+  position: absolute;
+  height: 18px;
+  width: 18px;
+  border: 1px solid #dfe0eb;
+  padding: 10px;
+  border-radius: 10px;
+  left: 610px;
+  top: 25px;
+}
+.cardicon3 {
+  position: absolute;
+  height: 18px;
+  width: 18px;
+  border: 1px solid #dfe0eb;
+  padding: 10px;
+  border-radius: 10px;
+  left: 960px;
+  top: 25px;
+}
+.cardicon4 {
+  position: absolute;
+  height: 18px;
+  width: 18px;
+  border: 1px solid #dfe0eb;
+  padding: 10px;
+  border-radius: 10px;
+  left: 1290px;
+  top: 25px;
+}
+.cardtittle {
+  padding-left: 30px;
+  padding-top: 5px;
+  color: #7c8db5;
+}
+.icon-card {
+  padding-top: 8px;
+  position: absolute;
+}

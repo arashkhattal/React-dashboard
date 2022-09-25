@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+  font-family: "Poppins" !important;
+}
+.main-dashboard {
+  position: absolute;
+  top: 702px;
+  width: 664px;
+  border-radius: 12px;
+  left: 319px;
+  cursor: pointer;
+}
+.p-table {
+  height: 639px;
+  /* width: 964px !important; */
+  border: 1px solid #dfe0eb;
+  border-radius: 12px;
+}
+.p-table-main {
+  width: 1350px !important;
+  border-radius: 12px !important;
+}
+.p-r1 {
+  font-size: 20px !important;
+}
+.p-r2 {
+  position: absolute;
+}
+.more {
+  position: absolute;
+  left: 1075px !important;
+  top: 25px !important;
+}
+.monthly {
+  position: absolute;
+  left: 1000px;
+}
+.name-head1 {
+  color: #05445e;
+  margin-right: 800px;
+}
+.List-head1,
+.List-head2,
+.List-head3,
+.List-head4,
+.List-head5,
+.List-head6,
+.List-head7,
+.t-hname {
+  color: #c4c4c4;
+}
+.btn {
+  background-color: #05445e !important;
+  border-radius: 20px !important;
+}

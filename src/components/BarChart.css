@@ -1,0 +1,9 @@
+.dchart {
+  width: 330px !important;
+  position: absolute;
+  left: 1120px;
+  top: 300px;
+  padding: 20px;
+  border: 1px solid #dfe0eb;
+  border-radius: 10px;
+}

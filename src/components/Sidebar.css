@@ -1,0 +1,623 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+* {
+  font-family: "Poppins" !important;
+}
+/* .thrombolink {
+    position: absolute;
+    width: 147px;
+    height: 24px;
+    left: 76px;
+    top: 41px;
+    font-family: 'Mulish' !important;
+    font-style: normal !important;
+    font-weight: 700 !important;
+    font-size: 19px !important;
+    line-height: 24px;
+    letter-spacing: 0.4px;
+    color: #D4F1F4;
+    opacity: 0.7;
+} */
+
+.Image1 {
+  position: absolute;
+  left: 32px;
+  top: 37px;
+}
+
+.Image2 {
+  position: absolute;
+  left: 11px;
+  right: 9px;
+  top: 9px;
+  bottom: 9px;
+}
+
+.Select {
+  position: absolute;
+  top: 119px;
+  bottom: 933px;
+  right: 0px;
+  /* background: #9FA2B4; */
+  /* opacity: 0.08; */
+  width: 255px;
+  height: 35px;
+  border-right: 7px solid #347ae2;
+}
+
+.Overview {
+  position: absolute;
+  height: 20px;
+  width: 159px;
+  left: 72px;
+  top: 146px;
+  right: 24px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height */
+  letter-spacing: 0.2px;
+  color: #000;
+  opacity: none !important;
+}
+
+.Category {
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  color: #3e4344 !important;
+  margin-top: 120px;
+  margin-left: 48px;
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 400 !important;
+  font-size: 16px;
+  /* identical to box height */
+
+  letter-spacing: 5px;
+}
+.Image2 {
+  height: 17px;
+  width: 19px;
+  position: absolute;
+  left: 34.5px !important;
+  top: 123px !important;
+}
+
+.Image3 {
+  height: 17px;
+  width: 17px;
+  position: absolute;
+  left: -38px !important;
+  top: 2.47px !important;
+  right: -24px !important;
+  border-radius: 0px;
+}
+
+.Image4 {
+  height: 17px;
+  width: 17px;
+  position: absolute;
+  left: 32px !important;
+  top: 175.67px !important;
+  right: 207px !important;
+  bottom: 896px;
+}
+.morearr {
+  height: 8px;
+  width: 11px;
+  position: absolute;
+  left: 179px !important;
+  top: 176.67px !important;
+  right: 207px !important;
+}
+.morearr2 {
+  height: 8px;
+  width: 11px;
+  position: absolute;
+  left: 179px !important;
+  top: 236.67px !important;
+  right: 207px !important;
+}
+
+.Image5 {
+  height: 18px;
+  width: 18px;
+  position: absolute;
+  left: 34.5px !important;
+  top: 230px !important;
+}
+
+.Image6 {
+  height: 18px;
+  width: 18px;
+  position: absolute;
+  left: 32px !important;
+  top: 280.4px !important;
+  right: 207px !important;
+  bottom: 787.4px;
+}
+
+.Image7 {
+  height: 18px;
+  width: 18px;
+  position: absolute;
+  left: 32px !important;
+  top: 334px !important;
+  right: 207px !important;
+}
+
+.Image8 {
+  height: 14.84px;
+  width: 15.5px;
+  position: absolute;
+  left: 33px !important;
+  top: 418px !important;
+  right: 207px !important;
+}
+.Notifycount {
+  text-align: center;
+  color: white;
+  font-size: 11px;
+  position: absolute;
+  left: 172px !important;
+  height: 14.84px;
+  width: 15.5px;
+  top: 280px !important;
+
+  background: red;
+  border: 1.5px solid #f7f8fc;
+
+  border-radius: 50px;
+}
+
+.Image9 {
+  height: 18px;
+  width: 18px;
+  position: absolute;
+  left: 32px !important;
+  top: 557px !important;
+  right: 585.25px !important;
+  bottom: 896px;
+}
+
+.Image10 {
+  height: 18px;
+  width: 18px;
+  position: absolute;
+  left: 34px !important;
+  top: 607px !important;
+  right: 207px !important;
+  bottom: 896px;
+}
+.Image11 {
+  height: 18px;
+  width: 18px;
+  position: absolute;
+  left: 34px !important;
+  top: 662px !important;
+  right: 207px !important;
+  bottom: 896px;
+}
+
+.Papers {
+  font-family: "Mulish" !important;
+}
+
+.paper1 {
+  box-sizing: border-box;
+  position: absolute;
+  left: 319px;
+  right: 0px;
+  top: 128px;
+  bottom: 0px;
+  height: 134px;
+  width: 317px;
+  display: flex;
+
+  /* grayscale / white */
+
+  background: #ffffff;
+  /* grayscale / divider */
+
+  border: 1px solid #dfe0eb;
+  border-radius: 8px;
+}
+
+.paper1 {
+  box-sizing: border-box;
+  position: absolute;
+  left: 319px;
+  right: 0px;
+  top: 128px;
+  bottom: 0px;
+  height: 134px;
+  width: 317px;
+  display: flex;
+
+  /* grayscale / white */
+
+  background: #ffffff;
+  /* grayscale / divider */
+
+  border: 1px solid #dfe0eb;
+  border-radius: 8px;
+}
+
+.paper2 {
+  box-sizing: border-box;
+  position: absolute;
+  left: 666px !important;
+  right: 0px;
+  top: 128px;
+  bottom: 0px;
+  height: 134px;
+  width: 317px;
+  display: flex;
+
+  /* grayscale / white */
+
+  background: #ffffff;
+  /* grayscale / divider */
+
+  border: 1px solid #3751ff;
+  border-radius: 8px;
+}
+
+.paper3 {
+  box-sizing: border-box;
+  position: absolute;
+  left: 1013px;
+  right: 0px;
+  top: 128px;
+  bottom: 0px;
+  height: 134px;
+  width: 317px;
+  display: flex;
+
+  /* grayscale / white */
+
+  background: #ffffff;
+  /* grayscale / divider */
+
+  border: 1px solid #dfe0eb;
+  border-radius: 8px;
+}
+
+.paper4 {
+  box-sizing: border-box;
+  position: absolute;
+  left: 1360px;
+  right: 0px;
+  top: 128px;
+  bottom: 0px;
+  height: 134px;
+  width: 317px;
+  display: flex;
+
+  /* grayscale / white */
+
+  background: #ffffff;
+  /* grayscale / divider */
+
+  border: 1px solid #dfe0eb;
+  border-radius: 8px;
+}
+
+.b1 {
+  position: absolute;
+  height: 24px;
+  left: 32px;
+  right: 1073px;
+  top: 24px;
+  width: 253px;
+
+  /* Bold/19px */
+
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 19px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.4px;
+  cursor: pointer;
+  color: #05445e !important;
+}
+
+.b2 {
+  position: absolute;
+  height: 24px;
+  left: 32px;
+  right: 1073px;
+  top: 24px;
+  width: 253px;
+
+  /* Bold/19px */
+
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 19px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.4px;
+  cursor: pointer;
+  color: #05445e !important;
+}
+
+.b3 {
+  position: absolute;
+  height: 24px;
+  left: 32px;
+  right: 1073px;
+  top: 24px;
+  width: 253px;
+  cursor: pointer;
+  /* Bold/19px */
+
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 19px;
+  line-height: 24px;
+  /* identical to box height */
+
+  text-align: center;
+  letter-spacing: 0.4px;
+  cursor: pointer;
+  color: #05445e !important;
+}
+
+.b4 {
+  position: absolute;
+  height: 24px;
+  left: 32px;
+  right: 1073px;
+  top: 24px;
+  width: 253px;
+
+  /* Bold/19px */
+
+  font-family: "Mulish" !important;
+  font-style: normal;
+  font-weight: 700 !important;
+  font-size: 19px;
+  line-height: 24px;
+  /* identical to box height */
+  cursor: pointer;
+  text-align: center;
+  letter-spacing: 0.4px;
+
+  color: #05445e !important;
+}
+
+.b11 {
+  position: absolute;
+  height: 50px;
+  width: 253px;
+  left: 32px;
+  right: 1073px;
+  top: 60px;
+
+  /* Bold/40px */
+
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px !important;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: 1px;
+  cursor: pointer;
+  color: #05445e;
+}
+
+.b22 {
+  position: absolute;
+  height: 50px;
+  width: 253px;
+  left: 32px;
+  right: 1073px;
+  top: 60px;
+
+  /* Bold/40px */
+
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px !important;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: 1px;
+  cursor: pointer;
+  color: #05445e;
+}
+
+.b33 {
+  position: absolute;
+  height: 50px;
+  width: 253px;
+  left: 32px;
+  right: 1073px;
+  top: 60px;
+  cursor: pointer;
+  /* Bold/40px */
+
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px !important;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: 1px;
+  cursor: pointer;
+  color: #05445e;
+}
+
+.b44 {
+  position: absolute;
+  height: 50px;
+  width: 253px;
+  left: 32px;
+  right: 1073px;
+  top: 60px;
+  cursor: pointer;
+  /* Bold/40px */
+
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px !important;
+  line-height: 50px;
+  text-align: center;
+  letter-spacing: 1px;
+
+  color: #05445e;
+}
+
+.table {
+  height: 342px;
+  width: 664px;
+  border: 1px solid #dfe0eb;
+  border-radius: 8px;
+}
+
+.table1 {
+  height: 342px;
+  width: 664px;
+  border: 1px solid #dfe0eb;
+  border-radius: 8px;
+}
+
+.Dashboard1 {
+  position: absolute;
+  top: 312px;
+  width: 664px;
+  border-radius: 8px;
+  left: 319px;
+  cursor: pointer;
+  font-family: "Mulish" !important;
+}
+
+.Dashboard2 {
+  position: absolute;
+  top: 312px;
+  width: 664px;
+  border-radius: 8px;
+  left: 1013px;
+  cursor: pointer;
+}
+
+.r1 {
+  font-family: "Mulish" !important;
+  position: absolute;
+  height: 24px;
+  left: 32px !important;
+  right: 178px;
+  top: 32px;
+  font-weight: 700 !important;
+  font-size: 19px !important;
+  line-height: 24px !important;
+  /* identical to box height */
+  border-bottom: none !important;
+  letter-spacing: 0.4px;
+
+  color: #05445e !important;
+}
+
+.r2 {
+  font-family: "Mulish" !important;
+  position: absolute;
+  height: 16px;
+  left: 48px !important;
+  right: 178px;
+  top: 78px;
+
+  /* Reg 12 (0.1 px) */
+
+  font-family: "Mulish";
+  font-style: normal;
+  font-weight: 400 !important;
+  font-size: 12px;
+  line-height: 16px;
+  /* identical to box height, or 133% */
+
+  letter-spacing: 0.1px;
+}
+
+.r3 {
+  font-family: "Mulish" !important;
+  position: absolute;
+  top: 116px;
+  left: 32px;
+  color: #05445e !important;
+}
+
+.r4 {
+  font-family: "Mulish" !important;
+  position: absolute;
+  top: 174px;
+  left: 32px;
+  color: #05445e !important;
+}
+
+.r5 {
+  font-family: "Mulish" !important;
+  position: absolute;
+  top: 232px;
+  left: 32px;
+  color: #05445e !important;
+}
+
+.r6 {
+  font-family: "Mulish" !important;
+  position: absolute;
+  top: 290px;
+  left: 32px;
+  border-bottom: none !important;
+  color: #05445e !important;
+}
+
+.c1 {
+  font-family: "Mulish" !important;
+  color: #c4c4c4 !important;
+  position: absolute;
+  left: 535px;
+  border-bottom: none !important;
+  top: 36px;
+}
+
+.c2 {
+  position: absolute;
+  top: 116px;
+  left: 552px;
+  color: #c4c4c4 !important;
+}
+
+.c3 {
+  position: absolute;
+  top: 174px;
+  left: 552px;
+  color: #c4c4c4 !important;
+}
+
+.c4 {
+  position: absolute;
+  top: 232px;
+  left: 552px;
+  color: #c4c4c4 !important;
+}
+
+.c5 {
+  position: absolute;
+  top: 290px;
+  left: 552px;
+  color: #c4c4c4 !important;
+  border-bottom: none !important;
+}

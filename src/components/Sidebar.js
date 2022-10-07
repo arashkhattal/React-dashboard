@@ -118,7 +118,7 @@ function Sidebar() {
               }}
             >
               <img src={help} alt=" " className="Image9" />
-              Help Center
+              Help
             </Typography>
             <Typography
               className="Logout"

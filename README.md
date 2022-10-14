@@ -1,70 +1,57 @@
-# Getting Started with Create React App
+# React.js Dashboard page 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Description
 
-## Available Scripts
+This is a React.js based Dashboard page plug-n-play template, ideal for startups/companies/service providers wanting to showcase their vision in a single page sleek and modern landing page.
 
-In the project directory, you can run:
+### Features
 
-### `npm start`
+- 📱  React js Dashboard with Chartjs
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 🎨 Integrate with [Material UI](https://mui.com/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- 🎨 Integrate with [ChartJs](https://www.chartjs.org/)
 
-### `npm test`
+- 🗂 VSCode configuration: Debug, Settings, Tasks and extension for  Prettier
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 🤖 SEO metadata, JSON-LD and Open Graph tags with Next SEO
 
-### `npm run build`
+- 🖱️ One click deployment with Vercel or Netlify (or manual deployment to any hosting services)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Make it your own
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+#### 1. Clone repo
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```
+git clone https://github.com/arashkhattal/dashboard.git
+cd dashboard
+npm
+```
 
-### `npm run eject`
+Then, you can run locally in development mode with live reload:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```
+npm start
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Open <http://localhost:3000> with your favorite browser to see your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+#### 2. Add your own content
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+ 1. **Content**: change the configuration in the ```src/config/index.json``` file to change the content of the landing page to match your use ```src/config/index.json```  folder and .
+ 2. **Images**:  add any images/icons..etc to the ```public/assets/images```  folder and update their reference source in ```src/config/index.json```.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+##### Deploy manually
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+You can see the results locally in production mode with:
 
-### Code Splitting
+```
+npm build
+npm start
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Contributions
 
-### Analyzing the Bundle Size
+Everyone is welcome to contribute to this project. Feel free to open an issue if you have question or found a bug.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

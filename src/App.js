@@ -16,7 +16,7 @@ function App() {
         <div className="chart">
           <LineChart />
         </div>
-        <p className="chart-head">Sales Analytics</p>
+        <p className="chart-head">Modern Analytics</p>
       </div>
       <div className="dchart">
         <DoughnutChart />

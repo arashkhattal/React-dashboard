@@ -51,7 +51,7 @@ export default function Variants() {
                   <Typography className="t-hname">No.</Typography>
                 </TableCell>
                 <TableCell>
-                  <Typography className="t-hname">Customer Name</Typography>
+                  <Typography className="t-hname">Name</Typography>
                 </TableCell>
                 <TableCell>
                   <Typography className="t-hname">Date</Typography>

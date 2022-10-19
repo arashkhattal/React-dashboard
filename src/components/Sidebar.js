@@ -95,7 +95,7 @@ function Sidebar() {
               }}
             >
               <img src={setting} alt=" " className="Image7" />
-              Setting
+              Settings
             </Typography>
 
             {/* <Divider
